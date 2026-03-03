@@ -125,7 +125,7 @@ Interactive features:
 
 ![Risk Assessment - Administrative & Hydrological](Images/GroundWater-Risk-Assessment-at-Administrative-and-Hydrological-Level.png)
 
-![Spatial Distribution of Groundwater Depth & Risk](Images/Spatial-Distribution-of-Ground-Water-Depth & Risk(2019-2021).png)
+![Spatial Distribution of Groundwater Depth & Risk](Images/Spatial-Distribution-of-Ground-Water-Depth&Risk(2019-2021).png)
 
 ---
 
